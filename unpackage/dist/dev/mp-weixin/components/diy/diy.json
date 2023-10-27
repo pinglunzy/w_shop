@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "banner": "./banner/banner",
+    "windows": "./window/window",
+    "nav-bar": "./navBar/navBar",
+    "blank": "./blank/blank",
+    "guide": "./guide/guide"
+  }
+}

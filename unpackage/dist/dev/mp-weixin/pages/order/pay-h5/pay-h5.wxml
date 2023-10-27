@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="pay-wrap"><view class="top-container"><view class="pay-title"> 微信支付 </view><view class="price p-20-0"> 支付金额：<text class="red f40 fb">￥{{b}}</text></view></view><view class="p30"><view class="product-name mt30"> 订单号：{{c}}</view><view class="mt30"><navigator class="pay" href="{{d}}"><button class="pay">确认支付</button></navigator></view></view></view>

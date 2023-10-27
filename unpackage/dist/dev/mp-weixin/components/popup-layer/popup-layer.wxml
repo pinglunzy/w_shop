@@ -1,0 +1,1 @@
+<view><view wx:if="{{a}}" bindtap="{{b}}" catchtouchmove="{{c}}" class="popup-layer"></view><view class="popup-content" catchtap="{{d}}" style="{{e}}"><slot name="content"></slot></view></view>

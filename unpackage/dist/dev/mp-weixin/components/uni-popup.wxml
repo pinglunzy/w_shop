@@ -1,0 +1,1 @@
+<view><view class="uni-mask" hidden="{{!a}}" style="{{'top:' + b}}" bindtap="{{c}}"></view><view class="{{['uni-popup', f]}}" hidden="{{!g}}" style="{{h}}"><view wx:if="{{d}}" class="popup-head">{{e}}</view><slot></slot></view></view>

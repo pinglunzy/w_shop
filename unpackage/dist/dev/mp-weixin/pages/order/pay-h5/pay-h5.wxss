@@ -1,0 +1,22 @@
+
+.product-pay-list {
+		text-align: left;
+}
+.product-pay-list .pic{ width: 120rpx; height: 120rpx;
+}
+.product-name {
+		font-size: 30rpx;
+}
+.top-container {padding: 100rpx 0;  text-align: center; background: #eeeeee; color: #333333;}
+.top-container .pay-title{font-size: 40rpx; font-weight: bold;}
+.pay-wrap .pay {
+		display: block;
+		height: 88rpx;
+		line-height: 88rpx;
+		font-size: 30rpx;
+		color: #FFFFFF;
+		text-align: center;
+		border-radius: 8rpx;
+		color: #FFFFFF;
+		background: #04be01;
+}

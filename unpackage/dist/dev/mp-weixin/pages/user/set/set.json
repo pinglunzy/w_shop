@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "设置",
+  "usingComponents": {
+    "popup": "../../../components/uni-popup",
+    "upload": "../../../components/upload/upload"
+  }
+}

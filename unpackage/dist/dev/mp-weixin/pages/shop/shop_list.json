@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "选择门店",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-load-more": "../../components/uni-load-more"
+  }
+}

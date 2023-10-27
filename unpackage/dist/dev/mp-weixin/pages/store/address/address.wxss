@@ -1,0 +1,13 @@
+
+.address-list {
+		padding-bottom: 90rpx;
+}
+.foot-btns {
+		padding: 0;
+}
+.foot-btns .btn-red {
+		width: 100%;
+		height: 90rpx;
+		line-height: 90rpx;
+		border-radius: 0;
+}
